@@ -47,7 +47,7 @@
 
 
 ## Скачать:
- - [Always Latest Release](https://github.com/telegram-prime/json-files-editor/releases/latest)
+ - [Always Latest Release](https://github.com/telegram-prime/json-files-editor-ru/releases/latest)
 
 
 
@@ -58,10 +58,10 @@
 
 ##  Контакты:
 - Email:    manager[@]telegramprime.net
-- Telegram: [Send message](https://telegramprime.net/telegram-contact)
-- TamTam:   [Send message](https://telegramprime.net/tamtam-contact)
-- Discord:  [Send message](https://telegramprime.net/discord-contact)
-- Element:  [Send message](https://telegramprime.net/element-contact)
+- Telegram: [Send message](https://telegramprime.com/telegram-contact)
+- TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
+- Discord:  [Send message](https://telegramprime.com/discord-contact)
+- Element:  [Send message](https://telegramprime.com/element-contact)
 
 * либо через форму связи на сайте:
 - Wеb: https://telegramprime.net/ - EN Version
