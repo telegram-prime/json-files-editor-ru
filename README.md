@@ -52,6 +52,7 @@
 
 
 ## Скриншоты:
+![image](https://github.com/user-attachments/assets/f8f3eecd-01c7-4830-a5e3-bdb2375d1d58)
 
 
 
